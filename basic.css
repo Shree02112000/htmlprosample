@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.main{
+    background-color: chartreuse;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 10px;
+    border: 3px solid black;
+}
